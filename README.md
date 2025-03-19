@@ -1,5 +1,5 @@
 ## PROJETO - CARDÁPIO ONLINE
-### Este projeto de um cardápio online foi desenvolvido em como projeto acadêmico com o seguinte requisito: será para uma empreendedora de 35 anos que decidiu modernizar seu restaurante o tema escolhido é restaurante mexicano. O objetivo é agilizar o atendimento e proporcionar uma experiência mais moderna aos clientes, atraindo um público jovem, considerando que muitos chegam ao estabelecimento sem sequer ter visto o cardápio.
+### Este projeto acadêmico de um cardápio online foi desenvolvido com o seguinte requisito:  para uma empreendedora de 35 anos que decidiu modernizar seu restaurante o tema escolhido é restaurante mexicano. O objetivo é agilizar o atendimento e proporcionar uma experiência mais moderna aos clientes, atraindo um público jovem, considerando que muitos chegam ao estabelecimento sem sequer ter visto o cardápio.
  ## Estrutura do cardápio
 ### 1. Página Inicial
 ### Apresenta uma visão geral do cardápio e uma introdução “Sobre Nós”. Oferece links para categorias como entradas, pratos principais, sobremesas e bebidas.
