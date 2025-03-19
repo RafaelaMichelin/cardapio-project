@@ -14,6 +14,6 @@
 ### O cardápio tem como tema a cultura mexicana, com as cores vermelha, verde e branca, que simbolizam, respectivamente, paixão, esperança e paz. Além disso, haverá características modernas, atraindo assim um público jovem ao estabelecimento
 
 ## Tecnologias utilizadas
-### HTML5, CSS3, JavaScript
+### HTML, CSS, JavaScript
 
 
